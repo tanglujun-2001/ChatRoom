@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/xtu_word.jpg</file>
+        <file>res/xtu_mag.png</file>
+        <file>res/Icon.png</file>
+        <file>res/bottombg2.png</file>
+        <file>res/back1.jpg</file>
+        <file>res/back2.jpg</file>
+        <file>res/back3.jpg</file>
+        <file>res/back4.jpg</file>
+        <file>res/back5.jpg</file>
+        <file>res/back6.jpg</file>
+        <file>res/back7.jpg</file>
+    </qresource>
+</RCC>
